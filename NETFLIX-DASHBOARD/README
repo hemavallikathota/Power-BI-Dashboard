@@ -1,0 +1,14 @@
+# Netflix Content Analysis Dashboard
+
+## Overview
+Power BI dashboard analyzing Netflix movies and TV shows.
+
+## Tools Used
+- Power BI
+- Power Query
+- DAX
+
+## Key Insights
+- Movies dominate Netflix content.
+- Content additions increased after 2015.
+- United States contributes the highest number of titles.
