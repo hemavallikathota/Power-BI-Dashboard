@@ -1,0 +1,14 @@
+# HR Analytics Dashboard
+
+## Overview
+Power BI dashboard analyzing employee attrition, salary trends, and workforce demographics.
+
+## Tools Used
+- Power BI
+- DAX
+- Power Query
+
+## Key Insights
+- Male employees outnumber female employees.
+- Attrition is concentrated in specific departments.
+- Most employees belong to the 30–40 age group.
